@@ -1,1 +1,1 @@
-librar manegement system
+library manegement system
